@@ -1,0 +1,59 @@
+include 		is a Keyword
+< 		is an Operator
+> 		is an Operator
+iostream 		is a Keyword
+using 		is a wrong Letter in the Code
+namespace 		is a wrong Letter in the Code
+; 		is a Punctuation
+std 		is a wrong Letter in the Code
+int 		is a Keyword
+( 		is a Punctuation
+) 		is a Punctuation
+{ 		is a Punctuation
+main 		is a Keyword
+int 		is a Keyword
+, 		is a Punctuation
+; 		is a Punctuation
+ab 		is a wrong Letter in the Code
+/ 		is an Operator
+/ 		is an Operator
+input 		is a wrong Letter in the Code
+variables 		is a wrong Letter in the Code
+cin 		is a Keyword
+> 		is an Operator
+> 		is an Operator
+a 		is a wrong Letter in the Code
+> 		is an Operator
+> 		is an Operator
+; 		is a Punctuation
+b 		is a wrong Letter in the Code
+/ 		is an Operator
+/ 		is an Operator
+take 		is a wrong Letter in the Code
+input 		is a wrong Letter in the Code
+from 		is a wrong Letter in the Code
+stdin 		is a wrong Letter in the Code
+cout 		is a Keyword
+< 		is an Operator
+< 		is an Operator
++ 		is an Operator
+* 		is an Operator
+aba 		is a wrong Letter in the Code
+< 		is an Operator
+< 		is an Operator
+; 		is a Punctuation
+endl 		is a wrong Letter in the Code
+/ 		is an Operator
+* 		is an Operator
+cout 		is a Keyword
+< 		is an Operator
+< 		is an Operator
++ 		is an Operator
+; 		is a Punctuation
+ab 		is a wrong Letter in the Code
+* 		is an Operator
+/ 		is an Operator
+return 		is a Keyword
+; 		is a Punctuation
+0 		is a Number
+} 		is a Punctuation
